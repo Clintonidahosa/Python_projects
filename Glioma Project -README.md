@@ -1,7 +1,7 @@
 # Differential Gene Expression Profiling and Unsupervised Clustering to Predict Low Grade Gliomas(LGG) Prognosis
 
 **Authors**:  
-Sanzida Akhter Anee [@Sanzida](https://github.com/Sanzida), [@doc_idahosa](https://github.com/doc_idahosa), Sk Arif [@arif_shaikh](https://github.com/arif_shaikh), Nada Ghozlan [@Nad1](https://github.com/Nad1), Mennatallah Mohamed Ebrahim Mahmoud [@Mennatallah](https://github.com/Mennatallah), Stéphie Raveloson [@StephieRav](https://github.com/StephieRav), Chidimma Nwaku [@Mma](https://github.com/Mma), Zaka Ullah [@Zaka](https://github.com/Zaka), Idahosa Clinton 
+Sanzida Akhter Anee [@Sanzida](https://github.com/Sanzida),  Idahosa Clinton [@doc_idahosa](https://github.com/doc_idahosa), Sk Arif [@arif_shaikh](https://github.com/arif_shaikh), Nada Ghozlan [@Nad1](https://github.com/Nad1), Mennatallah Mohamed Ebrahim Mahmoud [@Mennatallah](https://github.com/Mennatallah), Stéphie Raveloson [@StephieRav](https://github.com/StephieRav), Chidimma Nwaku [@Mma](https://github.com/Mma), Zaka Ullah [@Zaka](https://github.com/Zaka),
 
 ## Project Overview
 Gliomas are brain tumors that originate from glial cells, representing 80% of all primary malignant brain tumors in the central nervous system (CNS). This project aims to perform differential gene expression profiling and unsupervised clustering to predict gliomas prognosis based on RNA-seq data of low-grade gliomas (LGG) and their IDH mutation statuses.
@@ -34,7 +34,6 @@ The Random Forest model achieved 99% accuracy with high precision and recall, wh
 ## Conclusion
 This project underscores the significance of IDH status in glioma prognosis and demonstrates the efficacy of machine learning models in predicting genetic status based on gene expression profiles.
 
-## References
 ## References
 1. Ahir, B. K., Engelhard, H. H., & Lakka, S. S. (2020). Tumor development and angiogenesis in adult brain tumors: glioblastoma. Molecular neurobiology, 57, 2461-2478.
 2. What Makes a Brain Tumor High-Grade or Low-Grade? David Reardon, MD. April 3, 2018. [Link](https://blog.dana-farber.org/insight/2018/04/makes-brain-tumor-high-grade-low-grade/).
