@@ -1,7 +1,7 @@
-# Differential Gene Expression Profiling and Unsupervised Clustering to Predict Gliomas Prognosis
+# Differential Gene Expression Profiling and Unsupervised Clustering to Predict Low Grade Gliomas(LGG) Prognosis
 
 **Authors**:  
-Sanzida Akhter Anee [@Sanzida](https://github.com/Sanzida), Sk Arif [@arif_shaikh](https://github.com/arif_shaikh), Nada Ghozlan [@Nad1](https://github.com/Nad1), Mennatallah Mohamed Ebrahim Mahmoud [@Mennatallah](https://github.com/Mennatallah), Stéphie Raveloson [@StephieRav](https://github.com/StephieRav), Chidimma Nwaku [@Mma](https://github.com/Mma), Zaka Ullah [@Zaka](https://github.com/Zaka), Idahosa Clinton [@doc_idahosa](https://github.com/doc_idahosa)
+Sanzida Akhter Anee [@Sanzida](https://github.com/Sanzida), [@doc_idahosa](https://github.com/doc_idahosa), Sk Arif [@arif_shaikh](https://github.com/arif_shaikh), Nada Ghozlan [@Nad1](https://github.com/Nad1), Mennatallah Mohamed Ebrahim Mahmoud [@Mennatallah](https://github.com/Mennatallah), Stéphie Raveloson [@StephieRav](https://github.com/StephieRav), Chidimma Nwaku [@Mma](https://github.com/Mma), Zaka Ullah [@Zaka](https://github.com/Zaka), Idahosa Clinton 
 
 ## Project Overview
 Gliomas are brain tumors that originate from glial cells, representing 80% of all primary malignant brain tumors in the central nervous system (CNS). This project aims to perform differential gene expression profiling and unsupervised clustering to predict gliomas prognosis based on RNA-seq data of low-grade gliomas (LGG) and their IDH mutation statuses.
