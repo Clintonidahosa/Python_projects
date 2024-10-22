@@ -21,8 +21,8 @@ In this project, I focused on implementing the Machine Learning models, specific
 
 ## Links
 - [DE_Analysis R Code](https://github.com/sanzidaanee/Hackbio-cancer-internship/blob/main/Stage%204/Code/DEA.Rmd)
-- [KNN python code](https://github.com/Clintonidahosa/Python_projects/blob/main/TCGA%20LGG%20KNN.md)
-- [Random Forest Python Code](https://github.com/Clintonidahosa/Python_projects/blob/main/TCGA_LGG%20Random%20forest.md)
+- [KNN python code](https://github.com/Clintonidahosa/Python_projects/blob/main/Low%20Grade%20Gliomas(KNN%20project).md)
+- [Random Forest Python Code](https://github.com/Clintonidahosa/Python_projects/blob/main/Low%20Grade%20Glioma%20(Random%20Forest%20project).md)
 - [Dataset](https://github.com/sanzidaanee/Hackbio-cancer-internship/tree/main/Stage%204/Data)
 
 ## Introduction
